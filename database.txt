@@ -1,0 +1,6 @@
+loginInfo = {
+	kobe: {
+		username: "kobe",
+		password: "password",
+	}
+}
